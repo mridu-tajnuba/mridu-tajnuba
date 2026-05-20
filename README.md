@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋, I'm Tajnuba Nahar Mridu
 
-<!--
-**mridu-tajnuba/mridu-tajnuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior QA Engineer | Manual Testing | API Testing  
+📍 Dhaka, Bangladesh  
 
-Here are some ideas to get you started:
+## 🧪About ME
+I am a detail-oriented Software Quality Assurance (SQA) enthusiast with hands-on experience in manual testing, API testing, and bug reporting. I have worked on real-world web applications and enjoy ensuring software quality through systematic testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧Skills
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- API Testing (Postman)
+- SDLC & STLC
+- Agile Methodology
+
+## 🛠 Tools
+Postman | Selenium (Basic) | TestNG | GitHub | Trello  
+
+## 📂QA Projects
+🔹 [Konnect Testing Project](https://github.com/mridu-tajnuba/Project-cht.konnect)  
+🔹 [Win Agro Testing Project](https://github.com/mridu-tajnuba/Project-WIN-AGRO)
+
+## 📫Contact
+📧 tajnuba.mridu@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/tajnuba-nahar-mridu
+
